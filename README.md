@@ -1,1 +1,1 @@
-Just a binch of Tmux config files.
+Just a bunch of Tmux config files. Special thanks to http://blog.hawkhost.com/about/
