@@ -1,1 +1,1 @@
-Just a bunch of Tmux config files.
+Just a binch of Tmux config files.
